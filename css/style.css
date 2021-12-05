@@ -1,0 +1,94 @@
+/* Reset Css */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#main
+{
+    
+}   
+#header
+{ 
+    height: 80px;
+    /* màu nền */  
+    background: #000000;
+}
+#nav{
+    /* NORTHSIDE CREW */
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    font-family: Droid Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+/* màu text */
+
+}
+#nav li{
+    display: inline-block;
+
+}
+#nav li a
+{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+#nav .nor
+{   position: absolute;
+    left: 50px;
+    top: 19px;
+    bottom: 19px;
+    font-size: 36px;
+    line-height: 42px;
+}
+#nav .home
+{
+    position: absolute;
+    left: 480px;
+    top: 30px;
+    bottom: 29px;
+}
+#nav .top
+{
+    position: absolute;
+    left: 614px;
+    top: 30px;
+    bottom: 29px;
+}
+#nav .bt
+{
+    position: absolute;
+    left: 728px;
+    top: 30px;
+    bottom: 29px;
+}
+ #nav .acc
+ {
+    position: absolute;
+    left: 883px;
+    top: 30px;
+    bottom: 29px;
+}
+#nav .sl
+{   position: absolute;
+    left: 1087px;
+    top: 30px;
+    bottom: 29px;
+} 
+#banner
+{
+    
+}
+#product
+{
+    
+}
+#footer
+{
+    
+}
